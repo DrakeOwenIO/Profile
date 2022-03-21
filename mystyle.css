@@ -1,8 +1,14 @@
 body{
     background-color: #212121;
     color: #FAFAFA;
+    cursor: wait;
 }
 
-link{
-    text-decoration: none;
+:visited{
+    color: white;
 }
+
+.contact-email{
+    color: white;
+}
+ 
